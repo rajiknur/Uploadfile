@@ -1,0 +1,262 @@
+{
+    "profile": {
+        "name": "Luck Preset",
+        "bio": "**Selamat datang di halaman creator Alight Motion untuk pemula!**. Nikmati preset gratis yang tersedia, semoga bermanfaat untuk karya Anda. Butuh akses **Alight Motion Premium**? Klik tombol di bawah ini!",
+        "image": "https://files.catbox.moe/gjg06a.jpg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/yourusername",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Join Grup WhatsApp",
+            "url": "https://chat.whatsapp.com/HvjsuquOSzE11u4Nd0qQat",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/@luck_prset",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Website",
+            "url": "https://yourwebsite.com",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@lucksukaloli",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Order Alight Motion",
+            "url": "https://wa.me/6283874610220?text=order+am+premium+rika",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Saluran preset",
+            "url": "https://whatsapp.com/channel/0029Vb1RMj1EVccGkX7ekT05",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Telegram",
+            "url": "https://t.me/Gabutt101",
+            "icon": "fab fa-telegram"
+        }
+    ],
+    "music": {
+        "title": "8 Letters",
+        "artist": "Why Don't We",
+        "albumArt": "https://files.catbox.moe/facnl5.jpg",
+        "audioFile": "https://files.catbox.moe/l15bwy.mp3",
+        "duration": 200,
+        "timeSync": [
+            {
+                "time": 0.0,
+                "text": "[Piano intro]"
+            },
+            {
+                "time": 10.0,
+                "text": "[Beat drops]"
+            },
+            {
+                "time": 11.0,
+                "text": "How did we get here?\nBagaimana kita sampai di sini?",
+                "highlight": true
+            },
+            {
+                "time": 14.5,
+                "text": "I forgot how to start\nAku lupa cara memulai"
+            },
+            {
+                "time": 18.0,
+                "text": "But I know for sure\nTapi aku yakin",
+                "highlight": true
+            },
+            {
+                "time": 21.5,
+                "text": "You're the one worth falling for\nKau yang layak untuk dicinta"
+            },
+            {
+                "time": 26.0,
+                "text": "I don't need no metaphor\nTak butuh metafora",
+                "highlight": true
+            },
+            {
+                "time": 29.5,
+                "text": "It's simple as this\nSesederhana ini"
+            },
+            {
+                "time": 33.0,
+                "text": "Three words in, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 38.0,
+                "text": "Say it back to me\nUcapkan padaku",
+                "highlight": true
+            },
+            {
+                "time": 41.5,
+                "text": "Whisper in my ear\nBisikkan di telingaku"
+            },
+            {
+                "time": 45.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 48.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 52.0,
+                "text": "[Beat drop + ad-libs]"
+            },
+            {
+                "time": 60.0,
+                "text": "Oh-oh-oh-oh"
+            },
+            {
+                "time": 65.0,
+                "text": "No need to complicate\nTak perlu dipersulit",
+                "highlight": true
+            },
+            {
+                "time": 68.5,
+                "text": "It's easier than this\nLebih mudah dari ini"
+            },
+            {
+                "time": 72.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 75.5,
+                "text": "I don't need no metaphor\nTak butuh metafora",
+                "highlight": true
+            },
+            {
+                "time": 80.0,
+                "text": "I don't need no metaphor\nTak butuh metafora",
+                "highlight": true
+            },
+            {
+                "time": 83.5,
+                "text": "It's simple as this\nSesederhana ini"
+            },
+            {
+                "time": 87.0,
+                "text": "Three words in, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 92.0,
+                "text": "Say it back to me\nUcapkan padaku",
+                "highlight": true
+            },
+            {
+                "time": 95.5,
+                "text": "Whisper in my ear\nBisikkan di telingaku"
+            },
+            {
+                "time": 99.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 102.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 106.0,
+                "text": "If you don't mean it\nJika kau tak sungguh-sungguh",
+                "highlight": true
+            },
+            {
+                "time": 109.5,
+                "text": "Don't say it to me\nJangan ucapkan padaku"
+            },
+            {
+                "time": 113.0,
+                "text": "If you don't mean it\nJika kau tak bersungguh",
+                "highlight": true
+            },
+            {
+                "time": 116.5,
+                "text": "Don't say it to me\nJangan katakan padaku"
+            },
+            {
+                "time": 120.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 123.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 129.0,
+                "text": "Say it back to me\nUcapkan padaku",
+                "highlight": true
+            },
+            {
+                "time": 132.5,
+                "text": "Whisper in my ear\nBisikkan di telingaku"
+            },
+            {
+                "time": 136.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 139.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 143.0,
+                "text": "Say it back to me\nUcapkan padaku",
+                "highlight": true
+            },
+            {
+                "time": 146.5,
+                "text": "Whisper in my ear\nBisikkan di telingaku"
+            },
+            {
+                "time": 150.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf",
+                "highlight": true
+            },
+            {
+                "time": 153.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 157.0,
+                "text": "[Vocal harmonies]"
+            },
+            {
+                "time": 165.0,
+                "text": "Oh-oh-oh-oh"
+            },
+            {
+                "time": 170.0,
+                "text": "[Piano outro]"
+            },
+            {
+                "time": 190.0,
+                "text": "Three words, eight letters\nTiga kata, delapan huruf"
+            },
+            {
+                "time": 193.5,
+                "text": "I love you\nAku cinta kamu"
+            },
+            {
+                "time": 200.0,
+                "text": "[Fade out]"
+            }
+        ]
+    }
+}

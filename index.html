@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern LinkTree</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="welcome-panel" id="welcomePanel">
+        <div class="welcome-content animate__animated animate__fadeIn">
+            <div class="welcome-icon">
+                <i class="fas fa-hand-sparkles"></i>
+            </div>
+            <h2>Welcome to My Website</h2>
+            <p>Thanks for visiting! Click anywhere to explore.</p>
+            <button id="welcomeCloseBtn">Get Started</button>
+        </div>
+    </div>
+
+    <div class="container animate__animated animate__fadeIn animate__delay-1s">
+        <div class="profile">
+            <div class="profile-pic-container">
+                <img src="" alt="Profile Picture" class="profile-pic" id="profilePic">
+            </div>
+            <h1 class="profile-name animate__animated animate__fadeInUp animate__delay-1s" id="profileName">Your Name</h1>
+            <p class="profile-bio animate__animated animate__fadeInUp animate__delay-1s" id="profileBio">Your short biography or description goes here. Keep it concise and interesting!</p>
+        </div>
+        
+        <div class="links-container" id="linksContainer">
+            <!-- Links will be added here from JSON data -->
+        </div>
+        
+        <div class="footer animate__animated animate__fadeInUp animate__delay-2s">
+            &copy; <span id="currentYear"></span> FlowFalcon - Modern Linktree
+        </div>
+    </div>
+    
+    <div class="music-player" id="musicPlayer">
+        <button class="music-toggle" id="musicToggle">
+            <i class="fas fa-music"></i>
+        </button>
+        <div class="music-header">
+            <img src="" alt="Album Art" class="album-art" id="albumArt">
+            <div class="music-info">
+                <div class="song-title" id="songTitle">Song Title</div>
+                <div class="artist" id="artist">Artist Name</div>
+                <div class="lyrics-wrapper">
+                    <div class="lyrics-container">
+                        <div class="lyrics" id="lyrics">
+                            <!-- Lyrics will be displayed here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="music-controls">
+            <button class="play-pause" id="playPauseBtn">
+                <i class="fas fa-play" id="playPauseIcon"></i>
+            </button>
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+            <div class="time-display">
+                <span id="currentTime">0:00</span> / <span id="totalTime">0:00</span>
+            </div>
+        </div>
+        
+        <audio id="audioPlayer" preload="metadata"></audio>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
